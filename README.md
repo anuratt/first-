@@ -1,3 +1,3 @@
 # first-
 this is my first repo done afai <br>
-author- anurat niraula 
+author- anurat <niraulaaaa> 
